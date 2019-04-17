@@ -3,6 +3,8 @@ a simple, yet effective todo list
 
 ## DEMO 
 
+![](images/Image.gif)
+
 
 
 ### What I learned building this project
